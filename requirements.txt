@@ -1,0 +1,14 @@
+openai
+httpx
+Pillow
+PyMuPDF
+moviepy
+elevenlabs
+wheel
+python-dotenv
+torch
+opencv-python
+scikit-image
+tenacity
+torchvision
+numpy

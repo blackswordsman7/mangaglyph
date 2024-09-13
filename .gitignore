@@ -1,0 +1,18 @@
+__pycache__
+
+venv
+
+.DS_Store
+
+.env
+.env.example
+
+# naruto/
+one-piece/
+vinland-saga/
+solo-leveling/
+hunter/
+golden/
+berserk/
+
+.ipynb_checkpoints/
